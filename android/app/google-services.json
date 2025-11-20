@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348923238697",
+    "project_id": "krisros-app",
+    "storage_bucket": "krisros-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348923238697:android:be6fddda54802b65d1bf38",
+        "android_client_info": {
+          "package_name": "com.yourname.krisrosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-jTHOxyDZwxLfMEbm0L39HR29woA084"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
